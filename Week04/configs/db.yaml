@@ -1,0 +1,6 @@
+db:
+  username: root
+  password: password
+  host: 193.112.70.37
+  port: 3306
+  name: hello
